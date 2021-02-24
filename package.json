@@ -1,7 +1,10 @@
 {
   "name": "a-minimal-frontend-template-using-next",
-  "description": "This is a bare-bones minimal template using React, Next.js, Tailwind, and Typescript.",
+  "description": "This is a bare-bones minimal frontend template using React, Next.js, Tailwind, and Typescript.",
   "version": "1.0.0",
+  "bin": {
+    "a-minimal-frontend-template-using-next": ""
+  },
   "private": true,
   "scripts": {
     "dev": "next dev",
@@ -10,10 +13,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/dothislater"
+    "url": "https://github.com/Johnrobmiller/a-minimal-frontend-template-using-next.git"
   },
   "keywords": ["template", "trigram", "next", "next.js", "react", "tailwind", "typescript"],
   "author": "John Miller",
+  "license": "ISC",
   "dependencies": {
     "next": "10.0.7",
     "react": "17.0.1",

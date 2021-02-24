@@ -1,3 +1,13 @@
+This is a bare-bones minimal frontend template using React, Next.js, Tailwind, and Typescript. To install, use this command (replace "dir" with the name you want for your directory):
+
+npx create-next-app --example https://github.com/Johnrobmiller/a-minimal-frontend-template-using-next dir
+
+Happy coding!!!
+
+(Below this line is the original README.md created using "create-next-app")
+
+------------------------------------------------------
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
