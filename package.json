@@ -2,9 +2,6 @@
   "name": "a-minimal-frontend-template-using-next",
   "description": "This is a bare-bones minimal frontend template using React, Next.js, Tailwind, and Typescript.",
   "version": "1.0.0",
-  "bin": {
-    "a-minimal-frontend-template-using-next": ""
-  },
   "private": true,
   "scripts": {
     "dev": "next dev",
