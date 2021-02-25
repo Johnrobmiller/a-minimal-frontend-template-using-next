@@ -2,6 +2,8 @@ This is a bare-bones minimal frontend template using React, Next.js, Tailwind, a
 
 npx create-next-app --example https://github.com/Johnrobmiller/a-minimal-frontend-template-using-next dir
 
+Also, use Yarn to install any new packages.
+
 Happy coding!!!
 
 (Below this line is the original README.md created using "create-next-app")
