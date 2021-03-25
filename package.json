@@ -12,7 +12,15 @@
     "type": "git",
     "url": "https://github.com/Johnrobmiller/a-minimal-frontend-template-using-next.git"
   },
-  "keywords": ["template", "trigram", "next", "next.js", "react", "tailwind", "typescript"],
+  "keywords": [
+    "template",
+    "trigram",
+    "next",
+    "next.js",
+    "react",
+    "tailwind",
+    "typescript"
+  ],
   "author": "John Miller",
   "license": "ISC",
   "dependencies": {
